@@ -11,9 +11,3 @@
 #	For Ubuntu below command install all needed libraries;
 sudo pip install matplotlib
 sudo apt-get install python-matplotlib
-
-#
-#	GLFW for OpenGL
-#
-
-bash install_glfw.sh
